@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import NavBar from "./components/NavBar_Components/NavBar.tsx";
 import Logo from "./components/NavBar_Components/Logo.tsx";
 import SearchBar from "./components/NavBar_Components/SearchBar.tsx";
